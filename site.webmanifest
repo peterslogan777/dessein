@@ -1,0 +1,22 @@
+{
+  "name": "PRESCIENCE — Le Musée des Prophéties de la Bible",
+  "short_name": "PRESCIENCE",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070A12",
+  "theme_color": "#070A12",
+  "icons": [
+    {
+      "src": "assets/img/icones/icone-192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "assets/img/icones/icone-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
